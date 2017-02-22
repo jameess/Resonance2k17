@@ -3,11 +3,6 @@
     margin-right: 10px;
 }
 
-.form-group {
-    margin-left: 400px;
-    margin-right: 400px;
-}
-
 li {
     padding: 0px 5px;
 }
@@ -22,4 +17,8 @@ li {
 
 .form-group1 {
     margin: 0px 600px;
+}
+
+.clear {
+    clear: both;
 }
